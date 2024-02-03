@@ -1,0 +1,27 @@
+{
+  "name": "catpainting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "css-loader": "^6.10.0",
+    "html-webpack-plugin": "^5.6.0",
+    "postcss": "^8.4.33",
+    "postcss-import": "^16.0.0",
+    "postcss-loader": "^8.1.0",
+    "postcss-mixins": "^9.0.4",
+    "postcss-nested": "^6.0.1",
+    "postcss-simple-vars": "^7.0.1",
+    "styles-loader": "^4.0.1",
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
